@@ -1,0 +1,5 @@
+1.python
+2.data analytics
+3.data visualization
+4.Machine learning algorithms
+5. Data Evaluation
